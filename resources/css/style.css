@@ -1,7 +1,36 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
 .headline {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
   text-align: center;
+}
+
+.download-link {
+  color: Aquamarine;
+  font-size: 32px;
+  text-align: center;
+}
+
+.personal{
+  font-family: Verdana;
+  font-weight: 400;
+  font-size: 42px;
+  color: white;
+}
+
+.recommends{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+footer{
+  color: gray;
+  text-align: right;
 }
